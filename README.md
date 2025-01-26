@@ -67,7 +67,7 @@ Once the model was trained and optimized, we deployed it using **Streamlit**. St
 
 To interact with the model on Streamlit, visit the deployed app:
 
-[Live Streamlit App](your_deployed_streamlit_link_here)
+[Live Streamlit App](https://ann-diabetes-akash.streamlit.app/)
 
 
 Contributing
