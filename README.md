@@ -69,7 +69,7 @@ To interact with the model on Streamlit, visit the deployed app:
 
 [Live Streamlit App](https://ann-diabetes-akash.streamlit.app/)
 
-
+We are open to feedback.
 Contributing
 ------------
 
